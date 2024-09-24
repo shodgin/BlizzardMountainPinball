@@ -1,0 +1,39 @@
+# Assembly Notes
+
+## Hardware Parts
+- **PinGulp Pro Bracket** x 1
+	[Link to product](https://www.pinballlife.com/pingulp-pro-bracket-leftright.html)
+- **Pingulp screws (Size Unknown)** X 3
+- **M3 Threaded Inserts** X 15
+- **M3 35mm Button Head Screw** X 4
+- **M3 12mm Button Head Screw** X 11
+- **M3 8mm Button Head Screw** X 4 (Possibly need 6mm here)
+- **M2 6mm Self Tapping Screw** X 12
+- **Zip Tie** X 1
+
+## Right Reader Housing
+1. Install 5 M3 threaded inserts to back and top
+2. Attach Raspberry PI using 4 M2 6mm Self Tapping Screws
+
+## Left Reader Housing
+1. Install 5 M3 threaded inserts to back and top
+2. Screw Pingulp Bracket to side using 3 ???? screws
+
+## Card Reader
+1. Attach card reader to the housing using 4 M3 12mm  Button Head Screws
+
+## LCD Display Housing
+1. Attach LCD using 4 M2 6mm Self Tapping Screws
+2. Attach LCD Housing top the Reader Housing using 4 M3 35mm Button Head Screws
+
+## Relay Box
+1. Install 5 M3 threaded inserts in the inside face and the door tab
+2. Install Relay board using 4 ???8mm or 6mm??? button Head Screws
+3. Attach the relay box to the Reader Housing using 6 12mm Screws
+4. Use zip tie to securing all wiring to the Relay Box
+
+## Relay Door
+1. Attach Relay Door to the Relay Box using 1 12mm Button Head Screw
+
+
+
