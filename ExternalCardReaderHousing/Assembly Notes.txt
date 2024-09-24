@@ -1,15 +1,15 @@
 # Assembly Notes
 
 ## Hardware Parts
-- **PinGulp Pro Bracket** x 1
+- PinGulp Pro Bracket x 1
 	[Link to product](https://www.pinballlife.com/pingulp-pro-bracket-leftright.html)
-- **Pingulp screws (Size Unknown)** X 3
-- **M3 Threaded Inserts** X 15
-- **M3 35mm Button Head Screw** X 4
-- **M3 12mm Button Head Screw** X 11
-- **M3 8mm Button Head Screw** X 4 (Possibly need 6mm here)
-- **M2 6mm Self Tapping Screw** X 12
-- **Zip Tie** X 1
+- Pingulp screws (Size Unknown) X 3
+- M3 Threaded Inserts X 15
+- M3 35mm Button Head Screw X 4
+- M3 12mm Button Head Screw X 11
+- M3 8mm Button Head Screw X 4 (Possibly need 6mm here)
+- M2 6mm Self Tapping Screw X 12
+- Zip Tie X 1
 
 ## Right Reader Housing
 1. Install 5 M3 threaded inserts to back and top
